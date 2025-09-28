@@ -82,7 +82,7 @@ Cookie connect.sid bị xóa khỏi client.
 
 Check Mongo:
 ![Logout_Checkdb](https://github.com/HoaiLoc9/Cookie_session_auth/blob/main/public/results/logout_checkdb.png?raw=true)
-
+```bash
 cookie_session_auth/
 │── app.js             
 |── models/User.js
